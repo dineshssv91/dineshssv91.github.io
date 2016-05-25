@@ -8,8 +8,12 @@
     background-color: #f1f1f1;
     padding: 4px;
     color: darkcyan;
-}
-    
+    }
+
+    .input1
+    {
+    font-size: 20px;
+    }    
     .row.content {
       height: 1100px;
     }
